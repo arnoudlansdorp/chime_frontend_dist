@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.3af33d39.chunk.css",
-    "main.js": "/static/js/main.0e4492dc.chunk.js",
-    "main.js.map": "/static/js/main.0e4492dc.chunk.js.map",
+    "main.css": "/static/css/main.e97462ba.chunk.css",
+    "main.js": "/static/js/main.9c1b13e3.chunk.js",
+    "main.js.map": "/static/js/main.9c1b13e3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8bb7303c.js",
     "runtime-main.js.map": "/static/js/runtime-main.8bb7303c.js.map",
     "static/css/2.d7497f9b.chunk.css": "/static/css/2.d7497f9b.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.0098d5f7.chunk.js.map": "/static/js/2.0098d5f7.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d7497f9b.chunk.css.map": "/static/css/2.d7497f9b.chunk.css.map",
-    "static/css/main.3af33d39.chunk.css.map": "/static/css/main.3af33d39.chunk.css.map",
+    "static/css/main.e97462ba.chunk.css.map": "/static/css/main.e97462ba.chunk.css.map",
     "static/js/2.0098d5f7.chunk.js.LICENSE.txt": "/static/js/2.0098d5f7.chunk.js.LICENSE.txt",
     "static/media/Logo.c65422c9.svg": "/static/media/Logo.c65422c9.svg",
     "static/media/Raise-Hand.fddd95b6.svg": "/static/media/Raise-Hand.fddd95b6.svg",
@@ -20,9 +20,11 @@
     "static/media/ChimeWeb.css": "/static/media/bg.063330ef.png",
     "static/media/Chat.css": "/static/media/vote.e00d53ed.svg",
     "static/media/camera.776f1869.svg": "/static/media/camera.776f1869.svg",
+    "static/media/cancel-alert.d6cc9654.svg": "/static/media/cancel-alert.d6cc9654.svg",
     "static/media/close.24bebf55.svg": "/static/media/close.24bebf55.svg",
     "static/media/end-session-icon.d1b06036.svg": "/static/media/end-session-icon.d1b06036.svg",
     "static/media/hand.c928c6c0.svg": "/static/media/hand.c928c6c0.svg",
+    "static/media/leave-room.779010e1.svg": "/static/media/leave-room.779010e1.svg",
     "static/media/mute.aec53e75.svg": "/static/media/mute.aec53e75.svg",
     "static/media/qa.ce90c700.svg": "/static/media/qa.ce90c700.svg",
     "static/media/qaa.35a6a8e2.svg": "/static/media/qaa.35a6a8e2.svg",
@@ -37,7 +39,7 @@
     "static/js/runtime-main.8bb7303c.js",
     "static/css/2.d7497f9b.chunk.css",
     "static/js/2.0098d5f7.chunk.js",
-    "static/css/main.3af33d39.chunk.css",
-    "static/js/main.0e4492dc.chunk.js"
+    "static/css/main.e97462ba.chunk.css",
+    "static/js/main.9c1b13e3.chunk.js"
   ]
 }
